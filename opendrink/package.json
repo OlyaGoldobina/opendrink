@@ -1,0 +1,17 @@
+{
+  "name": "opendrink",
+  "version": "0.0.0",
+  "description": "opendrink",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.62",
+    "typescript": "^3.2.2"
+  }
+}
